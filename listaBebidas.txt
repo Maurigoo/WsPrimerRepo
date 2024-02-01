@@ -5,3 +5,6 @@ Coca Cola
 Monster Piña
 Monster Mango
 Monster Cereza
+Fanta Naranja
+Fanta Limon
+Fanta Uva
